@@ -1,0 +1,16 @@
+{
+  "name": "meme-downloader",
+  "version": "1.0.0",
+  "description": "simple automatic meme downloader - get hundred of memes from reddit to build up a :100: meme folder",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "32Vache"
+}
