@@ -9,6 +9,8 @@
 ![Version](https://img.shields.io/badge/Version-1.1.0-green)
 ![License](https://img.shields.io/github/license/32Vache/meme-downloader)
 
+![Meme downloader in action](https://i.imgur.com/wUt8wbX.png)
+
 Prerequisites :
 - Latest NodeJS version
 - Internet
@@ -43,3 +45,5 @@ Feel free to improve the code and make a pull request on github ! You will be cr
 Credit to https://github.com/R3l3ntl3ss/Meme_Api for the API used by this program. It uses MIT license
 
 ###### Made by 32Vache. 30/07/2020 - Updated 30/07/2020
+
+![Yay memes!](https://i.imgur.com/Ss9uOSq.png)
