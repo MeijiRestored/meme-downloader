@@ -37,7 +37,7 @@ Else you can skip steps 1, 2 and 3 by simply running the `start.bat` file. Howev
 Please do not make a new issue in github for those, as they are already known.
 
 --  The same meme can be sometimes downloaded twice. The chance of this happening increases as the program download more and more memes. There is no fix for that, since the memes are fetched from an external API.
-On the meanwhile you can use a program such as https://giorgiotani.github.io/PeaZip/index.html or code your own to check file's checksums and delete one of them if they have the same. A separate program to do this will probably be coded soon and will be available on this repository.
+On the meanwhile you can use a program such as https://giorgiotani.github.io/PeaZip/peautils-hash-secure-delete.html or code your own to check file's checksums and delete one of them if they have the same. A separate program to do this will probably be coded soon and will be available on this repository.
 
 
 Feel free to improve the code and make a pull request on github ! You will be credited
