@@ -6,7 +6,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/32Vache/meme-downloader)
 ![Open issues](https://img.shields.io/github/issues-raw/32Vache/meme-downloader)
 ![Downloads](https://img.shields.io/github/downloads/32Vache/meme-downloader/total)
-![Version](https://img.shields.io/github/v/release/32Vache/meme-downloader)
+![Version](https://img.shields.io/badge/Version-1.0.0--b-yellow)
 ![License](https://img.shields.io/github/license/32Vache/meme-downloader)
 
 Prerequisites :
