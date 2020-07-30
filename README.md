@@ -2,7 +2,12 @@
 
 ##### A simple NodeJS app to download a bunch of memes from reddit without any effort
 
-###### v1.0.0
+![Commit activity](https://img.shields.io/github/commit-activity/m/32Vache/meme-downloader)
+![Repo size](https://img.shields.io/github/repo-size/32Vache/meme-downloader)
+![Open issues](https://img.shields.io/github/issues-raw/32Vache/meme-downloader)
+![Downloads](https://img.shields.io/github/downloads/32Vache/meme-downloader/total)
+![Version](https://img.shields.io/github/v/release/32Vache/meme-downloader)
+![License](https://img.shields.io/github/license/32Vache/meme-downloader)
 
 Prerequisites :
 - Latest NodeJS version
@@ -14,7 +19,9 @@ How to Run :
 1. Open CMD (no admin required)
 2. Navigate to the folder where you extracted the files using `cd <path>`
 3.  Type in `node index.js`
+
 **Note :** Node packages arent installed by default. Before doing the above 3. , type in `npm i` and wait until the dependencies are downloaded.
+
 **Note 2 :** The output folder should be extracted with all the other files. However, it is empty and it is possible that it dosent get extracted. Make sure you have a folder called output located in the same folder than index.js. The folder is gonna be created by the program in a future release.
 4. Wait for the program to end. It downloads 50 memes, placing them in the output folder
 5. Open the output folder and enjoy ! You can run the program again if you wish.
